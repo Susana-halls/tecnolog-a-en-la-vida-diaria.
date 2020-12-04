@@ -1,0 +1,21 @@
+<html>
+
+<head>
+
+    <style type="text/css">
+
+     body  {
+      background-image: url("fondo.jpg");
+      no-repeat center center fixed;
+      background-color: #cccccc;
+      }
+
+   </style>
+
+</head>
+
+<body>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+<title>El Computador</title>
+
+</head>
+
+<body>
+
+<p style="text-align: center;"><font size="10"><font color="purple">El Computador</font><p>
+
+
+<p style="text-align: justify;"><font size="5"><font color="#78288C">La computadora, ese equipo indispensable en la vida cotidiana de hoy en día que también se conoce por el nombre de computador u ordenador, 
+es una máquina electrónica que permite procesar y acumular datos. El término proviene del latín computare (“calcular”).se trata de una máquina electrónica capaz de recibir, procesar
+y devolver resultados en torno a determinados datos y que para realizar esta tarea cuenta con un medio de entrada y uno de salida. Por otro lado, que un sistema informático se compone de dos subsistemas que reciben los nombres de software y hardware, el primero consiste en la parte lógica de la computadora (programas, aplicaciones, etc) 
+el segundo en la parte física (elementos que la forman como mother, ventilador, memoria RAM).A grandes rasgos una computadora se encuentra compuesta por el monitor, el teclado, el mouse, la torre (donde se encuentra el disco duro y los demás componentes del hardware) y la impresora, y cada uno cumple una función particular. Por otro lado, este aparato se encuentra preparado para realizar dos funciones principalmente: 
+responder a un sistema particular de comandos de una forma rápida y ejecutar programas, los cuales consisten en una serie de instrucciones grabadas con antelación.
+</font></font><p></br>
+
+<center><img src="computadora.jpg" alt="computadora" style="width:300px;height:300px;"></center>
+
+</body>
+
+</html>

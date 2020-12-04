@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<title>El Celular</title>
+
+</head>
+
+<h2><center><font color="#00aae4">El Celular</font></center></h2</br>
+
+<p style=text-align: justify;"><font size= "5"><font color="blue">Un teléfono móvil o teléfono celular, es un teléfono portátil que puede hacer o recibir llamadas a través de una portadora de radiofrecuencia, mientras el usuario se está moviendo dentro de un área de servicio telefónico.
+El enlace de radiofrecuencia establece una conexión con los sistemas de conmutación de un operador de telefonía móvil, que proporciona acceso a la red telefónica pública conmutada (PSTN).
+La mayoría de los servicios de telefonía móvil modernos utilizan una arquitectura de red celular, y por lo tanto los teléfonos móviles son, con frecuencia, llamados "celulares" especialmente en Hispanoamérica. En España, se utiliza más el término "móvil".</font></font> </p> 
+
+<center><img src="celular.jpg" alt="celular" style="width;300px;height:300 px;"></center>
+
+
+<p style=text-align: justify;"><font size= "5"><font color="blue">Durante los inicios de la telefonía móvil, estos dispositivos tenían funciones tan limitadas como solamente realizar llamadas, además de ser considerablemente grandes de tamaño, por lo que estos teléfonos eran conocidos como "ladrillos" en su época.
+Con la evolución de la tecnología celular analógica a la digital, fueron incluyéndose otras funciones como: mensajes de texto (SMS), MMS, comunicaciones inalámbricas de corto alcance (infrarrojos, bluetooth), videojuegos, cámara digital, acceso a Internet, entre otros. 
+Además, con el tiempo, fue cambiado el factor de forma de los teléfonos móviles, pasando de los antiguos "ladrillos", a los "barras" y "plegables" de los años 1990 y 2000 (con teclado físico), hasta los actuales "Slates" (de pantalla táctil y teclado virtual).
+Estos dispositivos fueron popularizándose en el mundo desarrollado durante el transcurso de los años 1990 y 2000 a nivel global. Recientemente, en la década de 2010 se popularizan los hoy día conocidos como smartphones (en inglés, teléfono inteligente), 
+que son teléfonos portátiles que pueden cumplir funciones de una computadora, aparte de las funciones mencionadas anteriormente. </font></font> </p> 
+
+
+
+</body>
+</html>

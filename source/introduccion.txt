@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+<title>Introducción</title>
+
+</head>
+
+<body>
+
+<p style="text-align: center;"><font size="10"><font color="purple">Introducción</font></p>
+
+
+<p style="text-align: justify;"><font size="5"><font color="#78288C">A lo largo de la historia, la evolución de los dispositivos eletrónicos han impactado sustancialmente 
+la calidad de vida humana, permitiendonos un mayor uso y procesamiento de la información, aplicado a distintos campos tales como: celulares y televisores, los cuales nos facilitan la vida, 
+nos permiten comunicarnos, accesamos a toda la información alrededor del mundo y nos brindan una manera de estudiar más fácil.
+Algunas de las ventajas que tienen estos aparatos, además de la ya antes mencionada facilitación, es que nos ayudan en todas partes, ya que en todas partes se encuentran, es díficil estar en un lugar sin tecnología, hoy en día es utilizada
+hasta para encontranos (GPS), nos permiten desenvolvernos en todos los ámbitos de una manera más fluida, leer, aprender y enseñar desde la comodidad de nuestros hogares o en donde sea que estemos.
+</font></font><p></br>
+
+<center><img src="tecnologia.jpeg" alt="tecnologia" style="width:300px;height:300px;"></center>
+
+<p style="text-align: justify;"><font size="5"><font color="#78288C">Todos estos aparatos nos ayudan diariamente, pero nos volvemos cada día más codepentienes, yo consideró que esto no es culpa del aparatos, si no de las personas que en su búsqueda de una manera más fácil de hacer todo, le deja la mayoría
+del trabajo a estos diferentes aparatos, tampoco es que esto sea con todos, algunos son necesario por razones tan fundamentales, como mantener la comida fresa o comunicarnos con personas que queremos y se encuentran a distancia, el error radica en utilizarla excesivamente.
+Asi que, dejo este pequeño párrafo como reflexión de mi trabajo.</font></font><p></br>
+
+<center><img src="usos.jpg" alt="usos" style="width:300px;height:300px;"></center>
+</body>
+
+</html>

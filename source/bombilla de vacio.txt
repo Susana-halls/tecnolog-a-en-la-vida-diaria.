@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+<title>Bombilla de vacio</title>
+
+</head>
+
+<body>
+
+<p style="text-align: center;"><font size="10"><font color="purple">Bombilla de vacio</font><p>
+
+
+<p style="text-align: justify;"><font size="5"><font color="#78288C">El diodo de vacío fue el primer tipo ideado de válvula termoiónica. Fue inventado en 1904 por el ingeniero eléctrico británico John Ambrose Fleming.​ 
+Se trata de un tubo de vidrio al vacío, conteniendo dos electrodos (conductores en contacto con el vacío, medio a través del que se cierra un circuito). 
+Uno es el cátodo (un filamento que se mantiene incandescente, hecho de un material capaz de emitir electrones térmicamente), y el otro es el ánodo 
+(que se mantiene a temperatura ambiente, con un potencial positivo respecto al cátodo). Los electrodos se conectan a una fuente de diferencia de potencial eléctrico, 
+de forma que los electrones emitidos termoiónicamente por el cátodo se aceleran hacia el ánodo bajo la acción del campo eléctrico 
+formando en la región vacía una corriente electrónica.</font></font><p></br>
+
+<center><img src="bombilla.jpg" alt="bombilla de vacio" style="width:300px;height:300px;"></center>
+
+</body>
+
+</html>
